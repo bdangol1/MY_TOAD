@@ -1,0 +1,21 @@
+FIle not found
+in CONCUR FOLDER
+
+'N'
+'P'
+'E'
+----------------------------------------------------
+
+If they edit Concur,
+new data 'N' in new file, 
+data with 'E' will be garbage
+----------------------------------------------------
+flush it out or Update 'E' records.(needs to be decided)
+----------------------------------------------------
+
+
+all data in staging
+-----
+make a flag which data goes to which module/GL/AP/ 
+
+-------------------------------------------------------
